@@ -11,4 +11,5 @@
 public class funciona {
     
     String Hola;
+    int a;
 }
