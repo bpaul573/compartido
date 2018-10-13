@@ -10,7 +10,9 @@
  */
 public class funciona {
     
-    String Hola;
-    int a;
-    System.out.printl("Hola, Jessica");
+    public static void main(String[] args) {
+        String Hola;
+        int a;
+        System.out.println("Hola, Jessica");
+    }
 }
