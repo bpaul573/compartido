@@ -11,6 +11,7 @@
 public class Fabiana {
     public static void main(String[] args) {
         System.out.println("Hola compañeros");
+        System.out.println("Hola");
     }
     
 }
