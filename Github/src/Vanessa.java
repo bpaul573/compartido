@@ -6,12 +6,11 @@
 
 /**
  *
- * @author paulb
+ * @author Portatil HP ENVY
  */
-public class Paul {
+public class Vanessa {
     public static void main(String[] args) {
-        System.out.println("Hola soy Paul");
-        System.out.println("jjd");
-        System.out.println("Hola Att:Giova");
+        System.out.println("Hola Compañeros");
+        System.out.println("Hola Vane Att:Giova");
     }
 }
