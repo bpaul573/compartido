@@ -10,7 +10,12 @@
  */
 public class Jessica {
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("Hola, a todos :)");  
         System.out.println("Hola Jessica");
+=======
+        System.out.println("Hola, a todos :)"); 
+        System.out.println("Hola Jess Att: Giova");
+>>>>>>> origin/master
     }
 }
