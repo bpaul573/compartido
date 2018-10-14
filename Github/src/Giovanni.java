@@ -9,5 +9,7 @@
  * @author Usuario
  */
 public class Giovanni {
-    
+    public static void main(String[] args) {
+        System.out.println("Hola");
+    }
 }
